@@ -61,3 +61,7 @@ pip install -r requirements.txt
 - **License: MIT** (or as per your preference)
 - Feel free to contribute—pull requests and suggestions are welcome!
 
+## 👤 Author
+**Bahre Hailemariam**  
+📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
+📩 [Email Adress](bahre.hail@gmail.com) | 🌐[Portfolio](https://bahre-hailemariam-data-analyst.crd.co/) |💼[LinkedIn](https://www.linkedin.com/in/bahre-hailemariam/) | 📊[GitHub](https://github.com/BahreHailemariam)
